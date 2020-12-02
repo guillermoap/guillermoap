@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media1.giphy.com/media/TcdpZwYDPlWXC/giphy.gif?cid=ecf05e4722lkwgiambj3o6swe0d2762jzenvmmrv52vx9ich&rid=giphy.gif" />
+</p>
 
 <!--
 **guillermoap/guillermoap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
